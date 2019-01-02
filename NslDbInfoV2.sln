@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NslDbInfoV2", "NslDbInfoV2\NslDbInfoV2.csproj", "{A55F21B6-89BF-4F52-882F-6C36E75F97AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A55F21B6-89BF-4F52-882F-6C36E75F97AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A55F21B6-89BF-4F52-882F-6C36E75F97AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A55F21B6-89BF-4F52-882F-6C36E75F97AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A55F21B6-89BF-4F52-882F-6C36E75F97AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0327A29C-89E6-4F84-BD71-EDCCF0228761}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://mladenmarkovic90.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = NslDbInfoV2\\NslDbInfoV2.csproj
+		SccProjectName1 = NslDbInfoV2
+		SccLocalPath1 = NslDbInfoV2
+	EndGlobalSection
+EndGlobal
